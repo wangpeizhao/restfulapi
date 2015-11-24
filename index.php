@@ -33,7 +33,7 @@
 		function GetJsonData() {
 			var json = {
 				"classid": 2,
-				"zlclass": "测试类型1,测试类型2,测试类型3",
+				"zlclass": "test1,test2,test3",
 			};
 			return json;
 		}
